@@ -14,7 +14,7 @@ Verify that these tools are added to your system's PATH in order to avoid errors
 
 ## Releases
 
-To support consistency in the deployment of Terraform based infrastructure.  Bedrock has started implementing releases for Terraform scripts.  The release process and tools for generating a release are found [here](./docs/releases).
+To support consistency in the deployment of Terraform based infrastructure.  Bedrock has started implementing releases for Terraform scripts.  The release process and tools for generating a release are found [here](../docs/releases).
 
 The first release(s) is 0.11.0 which will be the basic end of life for Terraform 0.11.x support and 0.12.0 which will be the first release supporting Terraform 0.12.x.
 
